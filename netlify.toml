@@ -10,14 +10,7 @@ HUGO_ENABLEGITINFO = "true"
 [build.environment]
   HUGO_VERSION = "0.146.5"
 
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.146.6"
-
-[[plugins]]
-  package = "netlify-plugin-cypress"
-
-  [plugins.inputs.postBuild]
-    enable = true
-
-  [plugins.inputs]
-    enable = false
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
