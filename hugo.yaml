@@ -121,21 +121,21 @@ params:
     stickyNavBar:
       enable : true
       showOnScrollUp : true
-    enableSeparator: false
+    enableSeparator: true
     menus:
       disableAbout: false
-      disableExperience: false
-      disableEducation: false
-      disableProjects: false
-      disableAchievements: false
-      disableContact: false
+      disableExperience: true
+      disableEducation: true
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
 
   # Hero
   hero:
     enable: true
     intro: "Hi, my name is"
     title: "Punit"
-    subtitle: "I talk about Cyber Security and ML Topics."
+    subtitle: 
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/punit.jpg
     bottomImage:
@@ -163,7 +163,7 @@ params:
     title: "About Me"
     image: "/images/profile2.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am a final-year student at ANU. I have a background in computer science and mathematics, and I have a strong interest in the intersection of machine learning and cyber security. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
@@ -372,9 +372,8 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
+      github: https://github.com/sdpunit
+      linkedin: https://www.linkedin.com/in/punit-deshwal/
       instagram: https://instagram.com
       facebook: https://facebook.com
 

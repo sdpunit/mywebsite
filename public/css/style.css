@@ -1,0 +1,16 @@
+.typing-animation {
+    overflow: hidden; /* hide overflowing text */
+    white-space: nowrap; /* keep text in one line */
+    border-right: 3px solid var(--primary-color); /* typing cursor */
+    width: 0;
+    animation: typing 3s steps(40, end) forwards, blink-caret 0.75s step-end infinite;
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    50% { border-color: transparent }
+  }

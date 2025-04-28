@@ -576,3 +576,15 @@ header .navbar.animate {
     box-shadow: 0px 8px 56px rgb(15 80 100 / 5%);
     padding: .5rem 1rem;
 }
+
+#typed-subtitle {
+    display: inline; /* Ensure the text and cursor are inline */
+
+}
+
+.typed-cursor {
+    display: inline; /* Ensure the cursor stays inline */
+    font-size: inherit; /* Match the font size of the text */
+    line-height: inherit; /* Match the line height of the text */
+    vertical-align: baseline; /* Align the cursor with the text baseline */
+}
