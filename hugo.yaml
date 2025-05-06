@@ -138,7 +138,7 @@ params:
     title: "Punit."
     subtitle: 
     content: |- 
-     Welcome to my personal space on the internet where I write blogs on cyber security, document my experiences and reflections, along with my perspectives through the camera. 
+     Welcome to my personal space on the Internet where I write blogs on cyber security, document my experiences and reflections, along with sharing my perspective through photography. 
 
   # "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/punit.jpg
@@ -213,9 +213,12 @@ params:
           url: cso
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          content: Incident Response and Management
+        content: |-
+          Providing wellbeing and support for over 500 residents at ANU Residential Halls and Tech support for the all the CSOs in the Team.
+          - Responded to critical incidents and emergencies.
+          - Collaborated with mental health and security teams.
+          - Maintained databases and resolved technical issues within the team.
 
 
       - job: "Radio Tech Officer"
@@ -229,10 +232,11 @@ params:
           name: "More about my work"
           url: woroni
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Supported the radio and media team at Woroni with technical setup and recording.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+            - Maintained studio equipment and supported live broadcasts
+            - Helped with podcast editing and scheduling
+            - Assisted student presenters with tech troubleshooting
 
       - job: "Head Teacher"
         company: "Code Camp"
@@ -240,12 +244,14 @@ params:
         date: "Feb 2023 - Jun 2024"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          url: codecamp
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Worked during school holidays as a head teacher and after-school facilitator for Code Camp programs.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          - Delivered engaging lessons in coding and animation.
+          - Adapted content to different age groups and learning levels.
+          - Helped students build their own games from scratch.
+
 
       - job: "Operations Team Member"
         company: "JB Hi-Fi"

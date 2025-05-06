@@ -6,8 +6,15 @@
     <description>Recent content on Punit&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 00:02:10 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 01:09:38 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Codecamp</title>
+      <link>http://localhost:1313/codecamp/</link>
+      <pubDate>Wed, 07 May 2025 01:09:38 +1000</pubDate>
+      <guid>http://localhost:1313/codecamp/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Codecamp&#34;&#xA;date: 2025-05-07T01:09:38+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
     <item>
       <title>Dragonfly Thinking?</title>
       <link>http://localhost:1313/blogs/dragonfly/</link>
@@ -100,7 +107,7 @@
       <description>&lt;h2 id=&#34;mathjax&#34;&gt;Mathjax&lt;/h2&gt;&#xA;&lt;p&gt;Math equations can be rendered using &lt;a href=&#34;https://www.mathjax.org&#34;&gt;Mathjax&lt;/a&gt; syntax with AMS symbol support.&lt;/p&gt;&#xA;&lt;p&gt;Optionally enable this on a per-page basis by adding &lt;code&gt;mathjax: true&lt;/code&gt; to your frontmatter.&lt;/p&gt;&#xA;&lt;p&gt;Then, use &lt;code&gt;$$ ... $$&lt;/code&gt; on a line by itself to render a block equation:&lt;/p&gt;&#xA;&lt;p&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&lt;/p&gt;&#xA;&lt;p&gt;The raw version is:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Write in-line equations with &lt;code&gt;\\( ... \\)&lt;/code&gt; , like \( x^n / y \) . It&amp;rsquo;s easy!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Image Gallery</title>
+      <title>#Shot On iPhone</title>
       <link>http://localhost:1313/gallery/</link>
       <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
       <guid>http://localhost:1313/gallery/</guid>
