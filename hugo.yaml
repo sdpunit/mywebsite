@@ -2,6 +2,9 @@ baseURL: "https://www.punitdeshwal.com/"
 languageCode: "en-us"
 title: "Punit's Blogs"
 
+taxonomies:
+  tag: "tags"
+  category: "categories"
 
 outputs:
   home:
