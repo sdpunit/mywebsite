@@ -2,17 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/2024cybercon/</loc>
-    <lastmod>2025-04-22T19:44:17+10:00</lastmod>
+    <loc>http://localhost:1313/blogs/anuwonder/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/anuwonder/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/entrepreneurship/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/innovation/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/startups/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/2024cybercon/</loc>
     <lastmod>2025-04-22T19:44:17+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/innovationact/</loc>
     <lastmod>2025-03-23T01:22:41+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
@@ -24,9 +45,6 @@
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>

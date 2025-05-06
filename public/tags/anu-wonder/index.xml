@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ANU-Wonder on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/anu-wonder/</link>
+    <description>Recent content in ANU-Wonder on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 16:29:21 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/anu-wonder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ANU-Wonder</title>
+      <link>http://localhost:1313/blogs/anuwonder/</link>
+      <pubDate>Tue, 06 May 2025 16:29:21 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/anuwonder/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Anuwonder&#34;&#xA;date: 2025-05-06T16:29:21+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -5,12 +5,21 @@ draft: false
 description: "I also like Photography"
 layout: "gallery"
 galleryImages:
- - src: https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111-1500x1000.jpg
- - src: https://img.etimg.com/thumb/msid-68721417,width-650,imgsize-1016106,,resizemode-4,quality-100/nature1_gettyimages.jpg
- - src: https://thumbs.dreamstime.com/b/team-ants-council-collective-decision-work-17037482.jpg
- - src: /images/gallery/pic6.jpeg
- - src: https://thumbs.dreamstime.com/b/young-woman-playing-dog-pet-beach-sunrise-sunset-girl-dog-having-fun-seasid-seaside-cute-neglected-stay-66480218.jpg
- - src: https://thumbs.dreamstime.com/b/funny-picture-taken-sunrise-frozen-lake-perspective-rider-retro-bicycle-sunrise-personal-211066044.jpg 
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497171/pic2_a5ydct.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497169/pic5_ivrhv0.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497170/pic10_vqlajq.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497170/pic14_flfkex.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497172/pic12_tshqcm.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497171/pic15_qemx2s.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497169/pic11_cjxlqu.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497168/pic7_thyhq1.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497169/pic13_axsjbl.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497169/pic6_wgjqfr.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497169/pic9_o8k3ul.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497168/pic1_rgvzqc.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497168/pic3_nyxxzw.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497168/pic4_jnhsmc.jpg
+ - src: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497168/pic8_gz5jqd.jpg
 viewer : true
 viewerOptions : {
     title: false
