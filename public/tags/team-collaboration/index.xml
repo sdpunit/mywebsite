@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Collaboration on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/team-collaboration/</link>
+    <description>Recent content in Team Collaboration on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 22:28:47 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/team-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultant</title>
+      <link>http://localhost:1313/consultant/</link>
+      <pubDate>Tue, 06 May 2025 22:28:47 +1000</pubDate>
+      <guid>http://localhost:1313/consultant/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Consultant&#34;&#xA;date: 2025-05-06T22:28:47+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>Radiant</title>
+      <link>http://localhost:1313/radiant/</link>
+      <pubDate>Tue, 06 May 2025 22:28:09 +1000</pubDate>
+      <guid>http://localhost:1313/radiant/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Radiant&#34;&#xA;date: 2025-05-06T22:28:09+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>Community Support Officer</title>
+      <link>http://localhost:1313/cso/</link>
+      <pubDate>Tue, 06 May 2025 22:26:59 +1000</pubDate>
+      <guid>http://localhost:1313/cso/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Cso&#34;&#xA;date: 2025-05-06T22:26:59+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>Senior Residential Mentor</title>
+      <link>http://localhost:1313/srm/</link>
+      <pubDate>Tue, 06 May 2025 22:17:22 +1000</pubDate>
+      <guid>http://localhost:1313/srm/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Srm&#34;&#xA;date: 2025-05-06T22:17:22+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>Study Buddy</title>
+      <link>http://localhost:1313/study-buddy/</link>
+      <pubDate>Tue, 06 May 2025 22:11:56 +1000</pubDate>
+      <guid>http://localhost:1313/study-buddy/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Study Buddy&#34;&#xA;date: 2025-05-06T22:11:56+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>Capstone Project</title>
+      <link>http://localhost:1313/orthovis/</link>
+      <pubDate>Tue, 06 May 2025 20:57:48 +1000</pubDate>
+      <guid>http://localhost:1313/orthovis/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Orthovis&#34;&#xA;date: 2025-05-06T20:57:48+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;h2 id=&#34;orthovis&#34;&gt;Orthovis&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Trip to Regional Schools</title>
+      <link>http://localhost:1313/anuwonder/</link>
+      <pubDate>Tue, 06 May 2025 16:57:28 +1000</pubDate>
+      <guid>http://localhost:1313/anuwonder/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Anuwonder&#34;&#xA;date: 2025-05-06T16:57:28+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;p&gt;This photo was taken during my recent trip to Bulahdelah Central School.&lt;/p&gt;&#xA;&lt;h2 id=&#34;anu-wonder-program&#34;&gt;ANU Wonder Program&lt;/h2&gt;&#xA;&lt;p&gt;ANU Wonder is a program that works with people from underrepresented backgrounds to access education after school.&lt;/p&gt;&#xA;&lt;p&gt;We work around the ACT and NSW with young people, in primary and high schools, and with mature age students too! ANU Wonder provides information, helps people consider interests and strengths, and supports the steps to make aspirations real. We visit schools and run activities there, and we welcome people onto the ANU campus too. Our team includes excellent ANU Student Leaders who share their own experiences.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Innovation ACT 2024 Winner</title>
+      <link>http://localhost:1313/innovationact/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/innovationact/</guid>
+      <description>&lt;h2 id=&#34;my-experience&#34;&gt;My experience&lt;/h2&gt;&#xA;&lt;p&gt;It was fantastic to be part of the Innovationact program. I learned a lot about entrepreneurship and innovation, and I had the opportunity to work with some amazing people. The program was well-structured and provided a great balance of theory and practical experience. I would highly recommend it to anyone interested in starting their own business or working in the innovation space.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/cbrin.jpeg&#34; alt=&#34;Here&amp;rsquo;s the Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;The importance of a strong team&lt;/strong&gt;: A successful startup is built on the foundation of a strong team. I learned that having a diverse group of people with different skills and perspectives can lead to better decision-making and problem-solving.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jane Street ETC</title>
+      <link>http://localhost:1313/etc/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/etc/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;emoji-support&#34;&gt;Emoji Support&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>College Representative with the australian student association</title>
+      <link>http://localhost:1313/college-rep/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>http://localhost:1313/college-rep/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;&#xA;&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;&#xA;&lt;li&gt;Duce pollice&lt;/li&gt;&#xA;&lt;li&gt;Eris modo&lt;/li&gt;&#xA;&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

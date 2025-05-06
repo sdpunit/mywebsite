@@ -2,11 +2,9 @@
 title: "Render Math With Mathjax"
 date: 2022-12-09T19:53:33+05:30
 draft: false
-author: "Gurusabarish"
+author: "Punit"
 tags:
-  - Markdown syntax
-  - Mathjax
-  - example
+
 image: https://res.cloudinary.com/dt9mwco87/image/upload/v1746497172/pic12_tshqcm.jpg
 description: ""
 toc: true

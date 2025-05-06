@@ -5,9 +5,7 @@ draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
 author: "Gurusabarish"
 tags:
-  - Markdown syntax
-  - Sample
-  - example
+
 image: /images/janestreet.jpeg
 description: ""
 toc:

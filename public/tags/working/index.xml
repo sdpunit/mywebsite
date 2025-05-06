@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/working/</link>
+    <description>Recent content in Working on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 16:57:28 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/working/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trip to Regional Schools</title>
+      <link>http://localhost:1313/anuwonder/</link>
+      <pubDate>Tue, 06 May 2025 16:57:28 +1000</pubDate>
+      <guid>http://localhost:1313/anuwonder/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Anuwonder&#34;&#xA;date: 2025-05-06T16:57:28+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;p&gt;This photo was taken during my recent trip to Bulahdelah Central School.&lt;/p&gt;&#xA;&lt;h2 id=&#34;anu-wonder-program&#34;&gt;ANU Wonder Program&lt;/h2&gt;&#xA;&lt;p&gt;ANU Wonder is a program that works with people from underrepresented backgrounds to access education after school.&lt;/p&gt;&#xA;&lt;p&gt;We work around the ACT and NSW with young people, in primary and high schools, and with mature age students too! ANU Wonder provides information, helps people consider interests and strengths, and supports the steps to make aspirations real. We visit schools and run activities there, and we welcome people onto the ANU campus too. Our team includes excellent ANU Student Leaders who share their own experiences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

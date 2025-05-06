@@ -138,7 +138,7 @@ params:
     title: "Punit."
     subtitle: 
     content: |- 
-     Welcome to my personal space on the internet where I write blogs on cyber security, share my reflections and experiences, along with my perspectives through the camera. 
+     Welcome to my personal space on the internet where I write blogs on cyber security, document my experiences and reflections, along with my perspectives through the camera. 
 
   # "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
     image: /images/punit.jpg
@@ -158,7 +158,7 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/punit-deshwal/
       customIcons:
-        - icon: /fav.png
+        - icon: /logo.png
           url: "https://example.com"
 
   # About
@@ -167,21 +167,21 @@ params:
     title: "About Me"
     image: "/images/profile2.jpg"
     content: |-
-      I am a final-year student at ANU. I have a background in computer science and mathematics, and I have a strong interest 
-      in the intersection of machine learning and cyber security. I am currently working as a software developer at 
-      [example org.](https://example.com) in San Francisco, CA.
+      I am a final-year student at ANU. My background is in Computer Science and Mathematics, and I have strong interest 
+      in the intersection of Machine Learning and Cyber Security. I am currently working as a Outreach Officer at ANU
+      in Canberra, ACT.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city. [Here's my education](sections/hero/index.html)
+      I am currently working on a project that will help in joint-motion assessment post surgery using Machine Learning. [Here's more about the Project](blogs/OrthoVis)
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
+        - "Python"
+        - "HTML/CSS"
         - "JavaScript"
-        - "React"
-        - "AWS Cloud"
-        - "Rust"
+        - "GitHub Actions"
+        - "AWS and Azure"
+        - "Cloudinary"
 
   # Experience
   experience:
@@ -195,7 +195,7 @@ params:
         featuredLink:
           enable: true
           name: "My Highlights"
-          url: "https://example.com"
+          url: anuwonder
         content: |-
           I work on outreach initiatives at ANU aimed at supporting students from rural and remote communities.
           - Supported school visits and ANU campus tours.
@@ -210,7 +210,7 @@ params:
         featuredLink:
           enable: true
           name: "Key Takeaways"
-          url: "https://example.com"
+          url: cso
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
@@ -218,25 +218,26 @@ params:
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Radio Tech Officer"
+        company: "Woroni"
+        companyUrl: "https://www.woroni.com.au/radio"
+        date: "Feb 2023 - Present"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "More about my work"
+          url: woroni
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
+      - job: "Head Teacher"
         company: "Code Camp"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        companyUrl: "https://www.codecamp.com.au/"
+        date: "Feb 2023 - Jun 2024"
         featuredLink:
           enable: true
           url: "https://example.com"
@@ -246,10 +247,10 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
+      - job: "Operations Team Member"
+        company: "JB Hi-Fi"
+        companyUrl: "https://www.jbhifi.com.au/"
+        date: "Jun 2022 - Feb 2023"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
@@ -267,15 +268,17 @@ params:
         content: |-
           Honors:
            - Recipient of ANU Chancellor's Scholarship
-           - Received [Residential Life Scholarship](https://www.anu.edu.au/) for 2024, 2025
+           - Received Residential Life Scholarship for 2024, 2025
 
           Leadership Roles:
-           - ANUSA College Representative for College of Engineering, Computing and Cybernetics.
+           - [ANUSA College Representative](college-rep) - for College of Engineering, Computing and Cybernetics.
            - Course Representative for 3 courses - Document Analysis, Computing and Interacting Design, Computer Vision.
-           - Student Ambassador for ANU College of Engineering, Computing and Cybernetics. 
+           - [Student Ambassador](student-ambassador) - for ANU College of Engineering, Computing and Cybernetics. 
+           - [Senior Residential Mentor](srm) - at ANU Residential Halls
            
           Extracurricular Activities:
-            - Consultant - 180 Degrees Consulting
+            - [Program Facilitator](radiant) - Radiant Not for profit organisation
+            - [Consultant](consulant) - 180 Degrees Consulting
             - Set4ANU Mentoring Program
             - ANU Badminton Club, ANU Chess Club, Computer Science Student Association
 
@@ -309,12 +312,13 @@ params:
         content: I solved all problems with optimal solution.
         url: innovationact
         image: /images/cbrin.jpeg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: Jane Street ETC Runner-up
+        content: 2nd place in Jane Street Electronic Trading Competition.
         image: /images/janestreet.jpeg
-      - title: Hugo Profile
+        url: ETC
+      - title: Student Research Conference
         content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
+        url: src
         image: /images/src.jpeg
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
@@ -332,45 +336,44 @@ params:
         url: innovationact
         featured:
           name: More
-          link: https://hugo-profile.netlify.app
+          link: orthovis
         badges:
           - "NLTK"
           - "Python"
           - "Javascript"
         links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+          - icon: fa fa-globe
+            url: https://orthovis2.wixsite.com/orthovis-2
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/janeetc.jpeg
+            url: https://github.com/sdpunit/OrthoVis
+          
+      - title: Study Buddy App
+        content: Focus app for university students. Designed and developed to help students manage time and along with personalised courses more effectively.
+        image: https://res.cloudinary.com/dt9mwco87/image/upload/t_cropping/v1746524754/login_filled_mgn0e4.png
+        url: study-buddy
         featured:
           name: Demo
-          link: https://django-converter.herokuapp.com
+          link: study-buddy
         badges:
           - "Django"
           - "Bootstrap"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/sdpunit/Study-buddy-app
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Hugo Portfolio
+        content: Designed and built my own portfolio/blog from scratch using Hugo and Cloudinary. It's a place for me to experiment and learn new skills. It's continuously evolving.
+        image: https://res.cloudinary.com/dt9mwco87/image/upload/v1746526151/logo_nvl6p8.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: More
+          link: "https://www.punitdeshwal.com/"
         badges:
           - "Hugo"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/sdpunit/mywebsite
 
   #Contact
   contact:

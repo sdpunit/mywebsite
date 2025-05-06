@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working in A on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/working-in-a/</link>
+    <description>Recent content in Working in A on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 22:28:47 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/working-in-a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consultant</title>
+      <link>http://localhost:1313/consultant/</link>
+      <pubDate>Tue, 06 May 2025 22:28:47 +1000</pubDate>
+      <guid>http://localhost:1313/consultant/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Consultant&#34;&#xA;date: 2025-05-06T22:28:47+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+  </channel>
+</rss>

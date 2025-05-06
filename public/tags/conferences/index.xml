@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/conferences/</link>
+    <description>Recent content in Conferences on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 00:02:10 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragonfly Thinking?</title>
+      <link>http://localhost:1313/blogs/dragonfly/</link>
+      <pubDate>Wed, 07 May 2025 00:02:10 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/dragonfly/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Dragonfly&#34;&#xA;date: 2025-05-07T00:02:10+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+    <item>
+      <title>AISA CyberCon 2024</title>
+      <link>http://localhost:1313/blogs/2024cybercon/</link>
+      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/2024cybercon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The 22nd ALTA Conference</title>
+      <link>http://localhost:1313/blogs/alta/</link>
+      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/alta/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Alta&#34;&#xA;date: 2025-05-06T23:51:53+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+    </item>
+  </channel>
+</rss>

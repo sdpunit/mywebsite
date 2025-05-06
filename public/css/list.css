@@ -77,3 +77,32 @@
     background-color: var(--primary-color) !important;
     color: var(--secondary-color) !important;
 }
+
+/* Tags */
+#list-page aside.tags {
+    max-height: 35vh;
+    overflow: scroll;
+}
+
+#list-page aside.tags h5 {
+    margin: .7em 0;
+    margin-bottom: 1em;
+}
+
+
+#list-page aside.tags ul.tags-ul li a {
+    padding: 5px 10px;
+    margin-bottom: 2px;
+    border-radius: 10px;
+    background-color: var(--background-color);
+    text-decoration: none;
+    color: var(--text-link-color) !important;
+}
+
+#list-page aside.tags ul.tags-ul li {
+    margin-bottom: 0.8rem;
+}
+
+#list-page aside.tags ul.tags-ul li:hover {
+    opacity: 0.8;
+}

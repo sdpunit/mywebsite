@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Reflections on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/my-reflections/</link>
+    <description>Recent content in My Reflections on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 20:57:48 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/my-reflections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Capstone Project</title>
+      <link>http://localhost:1313/orthovis/</link>
+      <pubDate>Tue, 06 May 2025 20:57:48 +1000</pubDate>
+      <guid>http://localhost:1313/orthovis/</guid>
+      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Orthovis&#34;&#xA;date: 2025-05-06T20:57:48+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;h2 id=&#34;orthovis&#34;&gt;Orthovis&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
