@@ -421,7 +421,7 @@ params:
     scrollprogress:
       enable: true
     tags:
-      openInNewTab: true
+      openInNewTab: false
 
   # For translations
   terms:

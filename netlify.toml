@@ -2,6 +2,10 @@
 publish = "public"
 command = 'hugo'
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [context.production.environment]
 HUGO_VERSION = "0.146.6"
 HUGO_ENV = "production"
