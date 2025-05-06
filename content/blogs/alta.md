@@ -1,7 +1,7 @@
 ---
 title: "The 22nd ALTA Conference"
 date: 2025-05-06T23:51:53+10:00
-draft: true
+draft: false
 author:
 tags:
  - Conferences

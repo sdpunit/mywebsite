@@ -1,7 +1,7 @@
 ---
 title: "Student Research Conference"
 date: 2025-05-06T22:08:33+10:00
-draft: true
+draft: false
 tags:
 image:
 description:

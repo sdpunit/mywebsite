@@ -1,7 +1,7 @@
 ---
 title: "Consultant"
 date: 2025-05-06T22:28:47+10:00
-draft: true
+draft: false
 author:
 tags:
   - Learning

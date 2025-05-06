@@ -10,3 +10,7 @@ HUGO_ENABLEGITINFO = "true"
 [build.environment]
   HUGO_VERSION = "0.146.5"
 
+[[redirects]]
+  from = "/404.html"
+  to   = "/404.html"
+  status = 404

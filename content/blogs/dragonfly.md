@@ -1,7 +1,7 @@
 ---
 title: "Dragonfly Thinking?"
 date: 2025-05-07T00:02:10+10:00
-draft: true
+draft: false
 author:
 tags:
  - Conferences

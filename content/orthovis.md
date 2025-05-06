@@ -1,7 +1,7 @@
 ---
 title: "Capstone Project"
 date: 2025-05-06T20:57:48+10:00
-draft: true
+draft: false
 author: Punit
 tags: 
    - Leadership

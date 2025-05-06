@@ -1,7 +1,7 @@
 ---
 title: "Trip to Regional Schools"
 date: 2025-05-06T16:57:28+10:00
-draft: true
+draft: false
 author: Punit
 tags: 
   - Learning
