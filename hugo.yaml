@@ -26,10 +26,6 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 6
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 Menus:
   main:

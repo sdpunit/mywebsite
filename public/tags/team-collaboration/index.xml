@@ -13,49 +13,49 @@
       <link>http://localhost:1313/consultant/</link>
       <pubDate>Tue, 06 May 2025 22:28:47 +1000</pubDate>
       <guid>http://localhost:1313/consultant/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Consultant&#34;&#xA;date: 2025-05-06T22:28:47+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Radiant</title>
       <link>http://localhost:1313/radiant/</link>
       <pubDate>Tue, 06 May 2025 22:28:09 +1000</pubDate>
       <guid>http://localhost:1313/radiant/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Radiant&#34;&#xA;date: 2025-05-06T22:28:09+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Community Support Officer</title>
       <link>http://localhost:1313/cso/</link>
       <pubDate>Tue, 06 May 2025 22:26:59 +1000</pubDate>
       <guid>http://localhost:1313/cso/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Cso&#34;&#xA;date: 2025-05-06T22:26:59+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Senior Residential Mentor</title>
       <link>http://localhost:1313/srm/</link>
       <pubDate>Tue, 06 May 2025 22:17:22 +1000</pubDate>
       <guid>http://localhost:1313/srm/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Srm&#34;&#xA;date: 2025-05-06T22:17:22+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Study Buddy</title>
       <link>http://localhost:1313/study-buddy/</link>
       <pubDate>Tue, 06 May 2025 22:11:56 +1000</pubDate>
       <guid>http://localhost:1313/study-buddy/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Study Buddy&#34;&#xA;date: 2025-05-06T22:11:56+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;</description>
+      <description></description>
     </item>
     <item>
       <title>Capstone Project</title>
       <link>http://localhost:1313/orthovis/</link>
       <pubDate>Tue, 06 May 2025 20:57:48 +1000</pubDate>
       <guid>http://localhost:1313/orthovis/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Orthovis&#34;&#xA;date: 2025-05-06T20:57:48+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;h2 id=&#34;orthovis&#34;&gt;Orthovis&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;orthovis&#34;&gt;Orthovis&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Trip to Regional Schools</title>
       <link>http://localhost:1313/anuwonder/</link>
       <pubDate>Tue, 06 May 2025 16:57:28 +1000</pubDate>
       <guid>http://localhost:1313/anuwonder/</guid>
-      <description>&lt;!-- --- hugo theme archetype:&#xA;title: &#34;Anuwonder&#34;&#xA;date: 2025-05-06T16:57:28+10:00&#xA;draft: true&#xA;author:&#xA;tags:&#xA;image:&#xA;description:&#xA;toc:&#xA;--- --&gt;&#xA;&lt;p&gt;This photo was taken during my recent trip to Bulahdelah Central School.&lt;/p&gt;&#xA;&lt;h2 id=&#34;anu-wonder-program&#34;&gt;ANU Wonder Program&lt;/h2&gt;&#xA;&lt;p&gt;ANU Wonder is a program that works with people from underrepresented backgrounds to access education after school.&lt;/p&gt;&#xA;&lt;p&gt;We work around the ACT and NSW with young people, in primary and high schools, and with mature age students too! ANU Wonder provides information, helps people consider interests and strengths, and supports the steps to make aspirations real. We visit schools and run activities there, and we welcome people onto the ANU campus too. Our team includes excellent ANU Student Leaders who share their own experiences.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This photo was taken during my recent trip to Bulahdelah Central School.&lt;/p&gt;&#xA;&lt;h2 id=&#34;anu-wonder-program&#34;&gt;ANU Wonder Program&lt;/h2&gt;&#xA;&lt;p&gt;ANU Wonder is a program that works with people from underrepresented backgrounds to access education after school.&lt;/p&gt;&#xA;&lt;p&gt;We work around the ACT and NSW with young people, in primary and high schools, and with mature age students too! ANU Wonder provides information, helps people consider interests and strengths, and supports the steps to make aspirations real. We visit schools and run activities there, and we welcome people onto the ANU campus too. Our team includes excellent ANU Student Leaders who share their own experiences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Innovation ACT 2024 Winner</title>
@@ -69,7 +69,7 @@
       <link>http://localhost:1313/etc/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/etc/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;emoji-support&#34;&gt;Emoji Support&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways. :zap:&lt;/p&gt;&#xA;&lt;h2 id=&#34;emoji-support&#34;&gt;Emoji Support&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;emojify&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site’s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;</description>
     </item>
     <item>
       <title>College Representative with the australian student association</title>
