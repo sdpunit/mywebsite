@@ -2,113 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/codecamp/</loc>
-    <lastmod>2025-05-07T01:09:38+10:00</lastmod>
+    <loc>http://localhost:1313/about-me/</loc>
+    <lastmod>2025-05-09T13:36:35+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-07T01:09:38+10:00</lastmod>
+    <lastmod>2025-05-09T13:36:35+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
-    <lastmod>2025-05-07T00:02:10+10:00</lastmod>
+    <loc>http://localhost:1313/quotes/</loc>
+    <lastmod>2025-05-09T12:58:37+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/conferences/</loc>
-    <lastmod>2025-05-07T00:02:10+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/dragonfly/</loc>
-    <lastmod>2025-05-07T00:02:10+10:00</lastmod>
+    <loc>http://localhost:1313/website/</loc>
+    <lastmod>2025-05-07T12:37:08+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
-    <lastmod>2025-05-07T00:02:10+10:00</lastmod>
+    <lastmod>2025-05-07T12:37:08+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/my-projects/</loc>
+    <lastmod>2025-05-07T12:37:08+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-07T00:02:10+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/2024cybercon/</loc>
-    <lastmod>2025-05-06T23:51:53+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cyber-security/</loc>
-    <lastmod>2025-05-06T23:51:53+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/invaluable-experience/</loc>
-    <lastmod>2025-05-06T23:51:53+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
-    <lastmod>2025-05-06T23:51:53+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blogs/alta/</loc>
-    <lastmod>2025-05-06T23:51:53+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/consultant/</loc>
-    <lastmod>2025-05-06T22:28:47+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflections/</loc>
-    <lastmod>2025-05-06T22:28:47+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/team-collaboration/</loc>
-    <lastmod>2025-05-06T22:28:47+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/radiant/</loc>
-    <lastmod>2025-05-06T22:28:09+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/volunteering/</loc>
-    <lastmod>2025-05-06T22:28:09+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cso/</loc>
-    <lastmod>2025-05-06T22:26:59+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/leadership/</loc>
-    <lastmod>2025-05-06T22:26:59+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/work/</loc>
-    <lastmod>2025-05-06T22:26:59+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/creative/</loc>
-    <lastmod>2025-05-06T22:26:09+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/woroni/</loc>
-    <lastmod>2025-05-06T22:26:09+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/srm/</loc>
-    <lastmod>2025-05-06T22:17:22+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/study-buddy/</loc>
-    <lastmod>2025-05-06T22:11:56+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/src/</loc>
-    <lastmod>2025-05-06T22:08:33+10:00</lastmod>
+    <lastmod>2025-05-07T12:37:08+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/orthovis/</loc>
     <lastmod>2025-05-06T20:57:48+10:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/leadership/</loc>
+    <lastmod>2025-05-06T20:57:48+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2025-05-06T20:57:48+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/team-collaboration/</loc>
+    <lastmod>2025-05-06T20:57:48+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/creativity/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/public-speaking/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/anuwonder/</loc>
     <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/work/</loc>
+    <lastmod>2025-05-06T16:57:28+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/conferences/</loc>
+    <lastmod>2025-04-20T23:58:55+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/invaluable-experiences/</loc>
+    <lastmod>2025-04-20T23:58:55+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/workshop/</loc>
+    <lastmod>2025-04-20T23:58:55+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cso/</loc>
+    <lastmod>2025-03-30T22:26:59+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2025-03-25T18:35:46+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/srm/</loc>
+    <lastmod>2025-03-18T22:17:22+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/woroni/</loc>
+    <lastmod>2025-02-06T22:26:09+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2024-12-12T23:51:53+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/alta/</loc>
+    <lastmod>2024-12-12T23:51:53+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/dragonfly/</loc>
+    <lastmod>2024-12-08T00:02:10+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/2024cybercon/</loc>
+    <lastmod>2024-12-06T23:51:53+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cyber-security/</loc>
+    <lastmod>2024-12-06T23:51:53+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/student-ambassador/</loc>
+    <lastmod>2024-10-03T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/innovationact/</loc>
+    <lastmod>2024-08-23T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/codecamp/</loc>
+    <lastmod>2024-06-07T01:09:38+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/volunteer/</loc>
+    <lastmod>2024-05-07T23:56:59+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/volunteering/</loc>
+    <lastmod>2024-05-07T23:56:59+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/etc/</loc>
+    <lastmod>2024-04-03T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/college-rep/</loc>
+    <lastmod>2023-11-18T22:41:10+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/radiant/</loc>
+    <lastmod>2023-09-28T22:28:09+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/study-buddy/</loc>
+    <lastmod>2023-08-12T22:11:56+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/src/</loc>
+    <lastmod>2023-07-06T22:08:33+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/consultant/</loc>
+    <lastmod>2023-05-06T22:28:47+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
-    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/innovationact/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/etc/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/college-rep/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/student-ambassador/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>

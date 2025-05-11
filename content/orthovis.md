@@ -7,7 +7,8 @@ tags:
    - Leadership
    - Machine Learning
    - Team Collaboration
-image: /images/bone.png
+   - Learning
+image: https://res.cloudinary.com/dt9mwco87/image/upload/v1746648192/IMG_6679_e30nty.jpg
 description:
 toc:
 --- 
@@ -23,11 +24,19 @@ description:
 toc:
 --- -->
 
-## Orthovis
+This is the photo taken by for with the team after the end of day reflections. 
+## About
 Page under construction...
+
+![image](/images/bone.png)
 
 ### Project Overview
  Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.
   - Managing team workflow and product planning
   - Replacing MATLAB with Python for faster performan
   - Integrating basic ML models into the pipeline
+
+## Things I learnt
+
+*(to be added)*
+

@@ -6,28 +6,28 @@
     <description>Recent content in Blogs on Punit&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 00:02:10 +1000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 23:51:53 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 22nd ALTA Conference</title>
+      <link>http://localhost:1313/blogs/alta/</link>
+      <pubDate>Thu, 12 Dec 2024 23:51:53 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/alta/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-favorites&#34;&gt;My favorites&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Dragonfly Thinking?</title>
       <link>http://localhost:1313/blogs/dragonfly/</link>
-      <pubDate>Wed, 07 May 2025 00:02:10 +1000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:02:10 +1000</pubDate>
       <guid>http://localhost:1313/blogs/dragonfly/</guid>
       <description></description>
     </item>
     <item>
       <title>AISA CyberCon 2024</title>
       <link>http://localhost:1313/blogs/2024cybercon/</link>
-      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 23:51:53 +1000</pubDate>
       <guid>http://localhost:1313/blogs/2024cybercon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The 22nd ALTA Conference</title>
-      <link>http://localhost:1313/blogs/alta/</link>
-      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
-      <guid>http://localhost:1313/blogs/alta/</guid>
-      <description></description>
+      <description>&lt;p&gt;Oh boy! was this a cool experience. One of the coolest in my life for sure!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Render Math With Mathjax</title>

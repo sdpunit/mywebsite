@@ -1,6 +1,6 @@
 ---
 title: "#Shot On iPhone"
-date: 2022-06-25T18:35:46+05:30
+date: 2025-03-25T18:35:46+05:30
 draft: false
 description: "Not a photographer, but I do enjoy taking photos. Here are some of my favorite shots :)"
 layout: "gallery"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Projects on Punit&#39;s Blogs</title>
+    <link>http://localhost:1313/tags/my-projects/</link>
+    <description>Recent content in My Projects on Punit&#39;s Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 May 2025 12:37:08 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/my-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Continually refining this website</title>
+      <link>http://localhost:1313/website/</link>
+      <pubDate>Wed, 07 May 2025 12:37:08 +1000</pubDate>
+      <guid>http://localhost:1313/website/</guid>
+      <description>&lt;p&gt;While I should be studying for my semesters, I was building this instead&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;h3 id=&#34;gained&#34;&gt;Gained&lt;/h3&gt;&#xA;&lt;h3 id=&#34;learning&#34;&gt;Learning&lt;/h3&gt;&#xA;&lt;h2 id=&#34;surprises&#34;&gt;Surprises&lt;/h2&gt;&#xA;&lt;p&gt;This journey came with more than a few unexpected surprises. But what&amp;rsquo;s surprises if not learning lessons? Here&amp;rsquo;s some of things I encountered and learnt along the way:&lt;/p&gt;&#xA;&lt;h3 id=&#34;learning-never-stops&#34;&gt;Learning never stops&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The deeper you delve into a topic, the more you realize what you don&amp;rsquo;t know&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;I thought this would be a quick and easy project. Setting things up seemed like the hardest part, but after that, I ran into new problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Focus App</title>
+      <link>http://localhost:1313/study-buddy/</link>
+      <pubDate>Sat, 12 Aug 2023 22:11:56 +1000</pubDate>
+      <guid>http://localhost:1313/study-buddy/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;the-process&#34;&gt;The process&lt;/h2&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

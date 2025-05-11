@@ -6,28 +6,35 @@
     <description>Recent content in Conferences on Punit&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 00:02:10 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 23:58:55 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talks, Events and Workshops</title>
+      <link>http://localhost:1313/workshop/</link>
+      <pubDate>Sun, 20 Apr 2025 23:58:55 +1000</pubDate>
+      <guid>http://localhost:1313/workshop/</guid>
+      <description>&lt;p&gt;I grew up in a household where my dad would tell to never hesitate on investing on my brain. He&amp;rsquo;d tell me to attend as many talks, conferences as possible even if it meant spending money to be part of these. I took the first part, for the second part not there yet, cause I always try to find student discounts or volunteering options to skip the &amp;ldquo;spending the money part&amp;rdquo; of his sentence.&#xA;I have been to several talks and workshop now, but instead of listing each one of them here, rather I want to share in the order of how deep impact some of those had on me and something that I learnt from each of them&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 22nd ALTA Conference</title>
+      <link>http://localhost:1313/blogs/alta/</link>
+      <pubDate>Thu, 12 Dec 2024 23:51:53 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/alta/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-favorites&#34;&gt;My favorites&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>Dragonfly Thinking?</title>
       <link>http://localhost:1313/blogs/dragonfly/</link>
-      <pubDate>Wed, 07 May 2025 00:02:10 +1000</pubDate>
+      <pubDate>Sun, 08 Dec 2024 00:02:10 +1000</pubDate>
       <guid>http://localhost:1313/blogs/dragonfly/</guid>
       <description></description>
     </item>
     <item>
       <title>AISA CyberCon 2024</title>
       <link>http://localhost:1313/blogs/2024cybercon/</link>
-      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
+      <pubDate>Fri, 06 Dec 2024 23:51:53 +1000</pubDate>
       <guid>http://localhost:1313/blogs/2024cybercon/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>The 22nd ALTA Conference</title>
-      <link>http://localhost:1313/blogs/alta/</link>
-      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
-      <guid>http://localhost:1313/blogs/alta/</guid>
-      <description></description>
+      <description>&lt;p&gt;Oh boy! was this a cool experience. One of the coolest in my life for sure!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

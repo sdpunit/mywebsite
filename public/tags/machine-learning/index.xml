@@ -6,21 +6,21 @@
     <description>Recent content in Machine Learning on Punit&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 23:51:53 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 20:57:48 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The 22nd ALTA Conference</title>
-      <link>http://localhost:1313/blogs/alta/</link>
-      <pubDate>Tue, 06 May 2025 23:51:53 +1000</pubDate>
-      <guid>http://localhost:1313/blogs/alta/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Capstone Project</title>
       <link>http://localhost:1313/orthovis/</link>
       <pubDate>Tue, 06 May 2025 20:57:48 +1000</pubDate>
       <guid>http://localhost:1313/orthovis/</guid>
-      <description>&lt;h2 id=&#34;orthovis&#34;&gt;Orthovis&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;This is the photo taken by for with the team after the end of day reflections.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;Page under construction&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/bone.png&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h3&gt;&#xA;&lt;p&gt;Leading a development team to upgrade a joint motion analysis tool used by clinicians and researchers at ANU and Canberra Hospital.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing team workflow and product planning&lt;/li&gt;&#xA;&lt;li&gt;Replacing MATLAB with Python for faster performan&lt;/li&gt;&#xA;&lt;li&gt;Integrating basic ML models into the pipeline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;things-i-learnt&#34;&gt;Things I learnt&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>The 22nd ALTA Conference</title>
+      <link>http://localhost:1313/blogs/alta/</link>
+      <pubDate>Thu, 12 Dec 2024 23:51:53 +1000</pubDate>
+      <guid>http://localhost:1313/blogs/alta/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-favorites&#34;&gt;My favorites&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Dragonfly Thinking?"
-date: 2025-05-07T00:02:10+10:00
+date: 2024-12-08T00:02:10+10:00
 draft: false
 author:
 tags:

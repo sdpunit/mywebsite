@@ -1,23 +1,46 @@
 ---
 title: "Innovation ACT 2024 Winner"
-date: 2021-04-03T22:53:58+05:30
+date: 2024-08-23T22:53:58+05:30
 draft: false
 tags:
-  - Emoji support
-  - Sample
   - Learning
-  - Invaluable Experience
+  - Invaluable Experiences
   - Team Collaboration
+description: My experience in the startup journey
+image: https://res.cloudinary.com/dt9mwco87/image/upload/v1746647604/IMG_7135_2_vwprw7.jpg
 ---
-## My experience
 
-It was fantastic to be part of the Innovationact program. I learned a lot about entrepreneurship and innovation, and I had the opportunity to work with some amazing people. The program was well-structured and provided a great balance of theory and practical experience. I would highly recommend it to anyone interested in starting their own business or working in the innovation space.
+
+
+## My Experience
+
+It was fantastic to be part of the InnovationACT program. I learned a lot about entrepreneurship and innovation, and I had the opportunity to work with some amazing people. The program was well-structured and provided a great balance of theory and practical experience. I would highly recommend it to anyone interested in starting their own business or working in the innovation space.
 
 ![Here's the Image](/images/cbrin.jpeg)
 
-## What I learned
+*in progress*
 
-1. **The importance of a strong team**: A successful startup is built on the foundation of a strong team. I learned that having a diverse group of people with different skills and perspectives can lead to better decision-making and problem-solving.
+## How It Started
 
+*to be added*
 
-2. **The value of customer feedback**: I learned that getting feedback from customers early and often is crucial to building a successful product. It helps you understand what your customers want and need, and allows you to iterate and improve your product based on their feedback.
+## The Process
+
+*to be added*
+
+## We Won!
+
+*to be added*
+
+## What I Learned
+
+1. **The importance of a strong team**  
+A successful startup is built on the foundation of a strong team. I learned that having a diverse group of people with different skills and perspectives can lead to better decision-making and problem-solving.
+
+2. **The value of customer feedback**  
+Getting feedback from customers early and often is crucial to building a successful product. It helps you understand what your customers want and need, and allows you to iterate and improve your product based on their feedback.
+
+3. **What can go wrong in a team?**  
+If something’s bothering you and you don’t share it with the team, you let it...
+
+*in progress*

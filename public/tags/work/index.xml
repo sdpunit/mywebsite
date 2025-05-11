@@ -6,15 +6,8 @@
     <description>Recent content in Work on Punit&#39;s Blogs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 May 2025 22:26:59 +1000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 16:57:28 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/work/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Community Support Officer</title>
-      <link>http://localhost:1313/cso/</link>
-      <pubDate>Tue, 06 May 2025 22:26:59 +1000</pubDate>
-      <guid>http://localhost:1313/cso/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Trip to Regional Schools</title>
       <link>http://localhost:1313/anuwonder/</link>
@@ -23,11 +16,25 @@
       <description>&lt;p&gt;This photo was taken during my recent trip to Bulahdelah Central School.&lt;/p&gt;&#xA;&lt;h2 id=&#34;anu-wonder-program&#34;&gt;ANU Wonder Program&lt;/h2&gt;&#xA;&lt;p&gt;ANU Wonder is a program that works with people from underrepresented backgrounds to access education after school.&lt;/p&gt;&#xA;&lt;p&gt;We work around the ACT and NSW with young people, in primary and high schools, and with mature age students too! ANU Wonder provides information, helps people consider interests and strengths, and supports the steps to make aspirations real. We visit schools and run activities there, and we welcome people onto the ANU campus too. Our team includes excellent ANU Student Leaders who share their own experiences.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Community Support Officer</title>
+      <link>http://localhost:1313/cso/</link>
+      <pubDate>Sun, 30 Mar 2025 22:26:59 +1000</pubDate>
+      <guid>http://localhost:1313/cso/</guid>
+      <description>&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;&#xA;&lt;p&gt;My role is part of one of the most unique models across Australia. It provides pastoral care and support. Each day could look very different to the day before. Being in the university setting, I am in charge of providing pastoral care and support to the residents of the ANU&amp;rsquo;s residential Halls. I am also the first point of contact for over 500 people living in the building throughout the year afterhours from 4pm to midnight. Some of the things that I have dealt with but not restricited to are:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Student Ambassador</title>
       <link>http://localhost:1313/student-ambassador/</link>
-      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <pubDate>Thu, 03 Oct 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/student-ambassador/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#embedded&#34;&gt;Embedded Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/privacy/#configuration&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-online-campaign&#34;&gt;My Online Campaign&lt;/h2&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;{{&amp;lt; x user=&amp;ldquo;GoHugoIO&amp;rdquo; id=&amp;ldquo;1315233626070503424&amp;rdquo; &amp;gt;}}&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; x user=&amp;#34;GoHugoIO&amp;#34; id=&amp;#34;1315233626070503424&amp;#34; &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; vimeo 146022717 &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;youtube-simple-shortcode&#34;&gt;Youtube Simple Shortcode&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;theme-custom-shortcodes&#34;&gt;Theme Custom Shortcodes&lt;/h2&gt;&#xA;&lt;p&gt;These shortcodes are not Hugo built-ins, but are provided by the theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Watching it click!</title>
+      <link>http://localhost:1313/codecamp/</link>
+      <pubDate>Fri, 07 Jun 2024 01:09:38 +1000</pubDate>
+      <guid>http://localhost:1313/codecamp/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s nothing like the feeling when you get to witness the lightbulb moment in a classroom.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;&#xA;&lt;h2 id=&#34;my-approach&#34;&gt;My Approach&lt;/h2&gt;&#xA;&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;&#xA;&lt;h2 id=&#34;best-parts&#34;&gt;Best Parts&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
