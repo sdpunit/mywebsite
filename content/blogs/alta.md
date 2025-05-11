@@ -25,6 +25,10 @@ description:
 toc:
 --- -->
 
+The conference was held at ANU. The purpose was to showcase some of the best papers in natural language processing and adjacent fields. I got the chance to meet some of the leading researchers in the field and gain insights into their work.
+
+*(Still in the process of migrating content — please check out the tags below to read about my experiences until then.)*
+
 ## About
 
 ## Recap

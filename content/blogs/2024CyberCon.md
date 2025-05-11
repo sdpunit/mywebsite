@@ -14,3 +14,5 @@ toc:
 --- 
 
 Oh boy! was this a cool experience. One of the coolest in my life for sure!
+
+*(Still in the process of migrating content — please check out the tags below to read about my experiences until then.)*
